@@ -16,3 +16,6 @@ Here are the steps to create the database:
 * The new database will now appear in Server Explorer
 * Right-click on the database in Server Explorer and select **New Query**
 * Copy the following [SQL](./school.sql) into the new query, then right-click on the query and select **Execute**
+
+
+![](./SchoolERD.PNG) 
