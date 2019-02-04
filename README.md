@@ -2,6 +2,8 @@
 
 This repository contains the schema and data for the School database. The sample School database is used in various places throughout the Entity Framework documentation.
 
+[see](https://docs.microsoft.com/en-us/ef/ef6/resources/school-database)
+
 Here are the steps to create the database:
 
 * Open Visual Studio
